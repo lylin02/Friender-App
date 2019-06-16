@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Friender</string>
+    <string name="submit">Submit</string>
+    <string name="welcome_back_friend">Welcome back, friend!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="music">Music</string>
+    <string name="animals">Animals</string>
+    <string name="horror">Horror</string>
+    <string name="mystery">Mystery</string>
+    <string name="sports">Sports</string>
+    <string name="science">Science</string>
+    <string name="culinary">Culinary</string>
+    <string name="activism_or_civil_service">Activism or Civil Service</string>
+    <string name="please_press_the_boxes_next_to_7_categories_that_interest_you">Please press the boxes next to 7 categories that interest you.</string>
+    <string name="art">Art</string>
+    <string name="business">Business</string>
+    <string name="travel">Travel</string>
+    <string name="literature">Literature</string>
+    <string name="theater">Theater</string>
+    <string name="create_your_profile">Create Your Profile</string>
+    <string name="location_selection">Location Selection</string>
+    <string name="vista_room">Vista Room</string>
+    <string name="classroom">Classroom</string>
+    <string name="lounge_room">Lounge Room</string>
+    <string name="todo">TODO</string>
+</resources>
